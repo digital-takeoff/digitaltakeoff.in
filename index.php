@@ -22,24 +22,24 @@
         <div class="dt01_02">
             <ul>
                 <li id="github">
-                    <span>
+                    <a href="https://github.com/digital-takeoff" target="_blank"><span>
                         <i class="fab fa-github"></i>
-                    </span>
+                    </span></a>
                 </li>
                 <li id="linkedin">
-                    <span>
+                    <a href="https://www.linkedin.com/in/digital-takeoff-955087190/" target="_blank"><span>
                         <i class="fab fa-linkedin"></i>
-                    </span>
+                    </span></a>
                 </li>
                 <li id="instagram">
-                    <span>
+                    <a href="https://www.instagram.com/digital.takeoff" target="_blank"><span>
                         <i class="fab fa-instagram"></i>
-                    </span>
+                    </span></a>
                 </li>
                 <li id="facebook">
-                    <span>
+                    <a href="https://www.facebook.com/Digital-Takeoff-420914025180062/" target="_blank"><span>
                         <i class="fab fa-facebook-square"></i>
-                    </span>
+                    </span></a>
                 </li>
             </ul>
         </div>
